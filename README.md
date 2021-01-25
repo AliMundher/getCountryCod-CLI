@@ -8,7 +8,8 @@ Get Country Cod from this is Packge
 Then...
 
 ```
-import {getCountryCode} from './getCountryCode';
+import getCountryCode from 'getcountrycode-cli';
 getCountryCode("belgium")
 
 ```
+ You have to Add in packge.json "type":"module"
